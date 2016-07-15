@@ -1,5 +1,4 @@
 
-class RecursiveFunc {
-public:
-	static int getResult(int number);
+namespace recfuncs {
+	long getResult(long n);
 };
