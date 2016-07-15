@@ -9,7 +9,7 @@ using namespace recfuncs;
 using  ns = chrono::nanoseconds;
 using get_time = chrono::steady_clock ;
 
-const long NUMBER = 23456789012345678;
+const long NUMBER = 123456789012345678;
 
 int main(int argc, char* argv[]) {
 	unsigned long x;
